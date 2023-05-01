@@ -1,0 +1,77 @@
+body {
+  margin: 33px;
+  font-family: verdana, arial, helvetica, sans-serif;
+  font-size: 13px;
+  line-height: 18px;
+  color: #333;
+}
+
+.contents {
+  margin: 33px;
+}
+
+th {
+  padding-bottom: 5px;
+}
+
+td {
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-bottom: 7px;
+}
+
+label {
+  display: block;
+}
+
+.error-box {
+  width: 450px;
+  border: 2px solid red;
+  padding: 7px 7px 0;
+  margin-bottom: 20px;
+  background-color: #F0F0F0;
+}
+
+.error-title {
+  color: white;
+  padding: 5px 5px 5px 15px;
+  margin: -7px -7px 0;
+  background-color: #c00;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+ul {
+  margin: 33px;
+  padding-left: 40px;
+}
+
+li {
+  font-size: 12px;
+}
+
+.new-book {
+  margin: 0 0 10px;
+}
+
+.field_with_errors{
+  padding: 2px;
+  background-color: red;  
+  display: table;
+}
+
+.edit-book {
+  margin: 0 0 10px;
+}
+
+.gray-link {
+  color: #666;
+}
+
+.black-link {
+  color: black;
+}
+
+.flash {
+  color: green;
+}
